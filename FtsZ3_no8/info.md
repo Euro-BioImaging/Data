@@ -5,7 +5,7 @@ Confocal image of a section of a living _Physcomitrium patens_ cell.
 Channel-0: FtsZ3-EGFP \
 Channel-1: Chlorophyll (autofluorescence) 
 
-#### Basic voxel metadata:
+#### Basic metadata:
 
 BitsPerPixel = 8 \
 PixelType = uint8 \
